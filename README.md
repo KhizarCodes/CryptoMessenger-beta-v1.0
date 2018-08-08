@@ -15,6 +15,6 @@ The sent message is converted to and broken into two things, Extractor Factor an
 
 One more thing. Dont forget to contact for any problems encountered or for any suggestions you would like to make. You can contact me through my Instagram and Email.
 
-*Instagram: @khziarcodes | Email: khizer.khan1899@protonmail.com
+Instagram: instagram.com/khizarcodes | Email: khizer.khan1899@protonmail.com
 
 Thankyou.
