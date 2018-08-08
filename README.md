@@ -7,7 +7,7 @@ And it is by your efforts that we can pull of this idea and shape it into realit
 
 HOW TO USE THE PROGRAM?
       Create a new Gmail account and go into its settings to allow less-secure apps to access it. Also enable the IMAP/SMTP access if there is one.
-Next, to open the program, open terminal in the directory where you downloaded the programs file. Now type './ CryptoMessenger_beta-v1.0'.
+Next, to open the program, open terminal in the directory where you downloaded the programs file. Now type 'chmod +x CryptoMessenger_beta-v1.0' to make the file executable. Now type './ CryptoMessenger_beta-v1.0' to run the program.
 From there on, the program is self explanotory. Type 'START' to start the program. Type 'HELP' to see the help menu. Type 'EXIT' to exit the program.
 Once you type 'Start' to start the program, you will be asked to login to your account. Next up, you will be presented with the option to 'Send' OR 'Receive' message. Remember the input dialogue is case sensitive. So, you will have to exactly enter 'Send' or 'Receive'.
 
